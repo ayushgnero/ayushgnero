@@ -13,4 +13,4 @@
 
 ### GitHub Stats
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgnero&layout=compact)](https://github.com/ayushgnero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgnero)](https://github.com/ayushgnero/github-readme-stats)
