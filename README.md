@@ -13,4 +13,4 @@
 
 ### GitHub Stats
 
-[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=2yk)](https://github.com/anuraghazra/github-readme-stats)
