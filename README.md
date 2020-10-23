@@ -15,4 +15,3 @@
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&show_icons=true&hide=issues,contribs&count_private=true&theme=merko&title_color=dc143c&bg_color=ffffffff&text_color=000&icon_color=cd8c95)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgnero&layout=compact)](https://github.com/ayushgnero/github-readme-stats)
-c
