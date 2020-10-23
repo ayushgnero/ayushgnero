@@ -12,6 +12,6 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1E36PLo9gnUkZg)
 
 ### GitHub Stats
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&show_icons=true&hide=issues,contribs&theme=merko&title_color=dc143c&bg_color=ffffffff&text_color=000&icon_color=ff000000?count_private=true)
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&show_icons=true&hide=issues,contribs&theme=merko&title_color=dc143c&bg_color=ffffffff&text_color=000&icon_color=ff000000&count_private=true)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgnero&layout=compact)](https://github.com/ayushgnero/github-readme-stats)
