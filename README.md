@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgnero&show_icons=true&locale=en&layout=compact" alt="ayushgnero" /></p>
 
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&hide=issues,contribs&theme=merko&title_color=dc143c&bg_color=ffffffff&text_color=000&icon_color=ff00000)
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&hide=issues,contribs&theme=merko&title_color=dc143c&bg_color=ffffffff&text_color=000&icon_color=ff00000&count_private=true)
