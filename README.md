@@ -1,4 +1,6 @@
 
+<center>
+  
 - 🔭 I’m currently working on **Rival System**
 
 - 🌱 I’m currently learning **Coding**
@@ -10,6 +12,7 @@
 - 📫 How to reach me **ayushgnero@gmail.com**
 
 - ⚡ Fun fact **I am an otaku**
+</center>
 
 ### Spotify Tunes
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1E35FDyxTYVcZe)
