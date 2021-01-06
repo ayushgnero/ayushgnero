@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I am an otaku**
 
 ### Spotify Tunes
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1E37z9CWV4ndN3)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1E35FDyxTYVcZe)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgnero&show_icons=true&locale=en&layout=compact" alt="ayushgnero" /></p>
