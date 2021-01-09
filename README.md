@@ -19,5 +19,4 @@
 
 
 <p><img align="center" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgnero&show_icons=true&locale=en&layout=compact" alt="ayushgnero" /></p>
-
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&hide=issues,contribs&theme=merko)
+<p><img align = "center" style="float:left" src="https://github-readme-stats.vercel.app/api?username=ayushgnero&hide=issues,contribs&theme=merko" alt"Ayush's github stats" /></p>
