@@ -18,6 +18,6 @@
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1E35FDyxTYVcZe)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgnero&show_icons=true&locale=en&layout=compact" alt="ayushgnero" /></p>
+<p><img align="center" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgnero&show_icons=true&locale=en&layout=compact" alt="ayushgnero" /></p>
 
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&hide=issues,contribs&theme=merko&title_color=dc143c&bg_color=00FFFFFF&text_color=000&icon_color=ff00000&count_private=true)
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushgnero&hide=issues,contribs&theme=merko)
